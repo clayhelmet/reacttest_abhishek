@@ -1,5 +1,20 @@
-.col-md-12{
-    border-radius: 10px;
+
+.header{
+    background-color: #007AFF;
+    color: white;
+    text-align: left;
+    padding-left: 50px;
+    font-size: 1cm;
+}
+.form-title{
+    font-size: 1.75em;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.form-container{
     background-color: #c9bde4;
-    box-shadow: 5px 5px 10px gray;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 , 4px , 10px rgba(0, 0, 0, 0.1);
 }
